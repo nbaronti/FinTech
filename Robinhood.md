@@ -22,8 +22,8 @@ RobinHoods competitors include:
 
 
 Contributors include
-Raja
-Jon
-Andrei
-Nick
-Denise
+- Raja Abhishek
+- Jon Ernest
+- Andrei Eugen Stoian
+- Nick Barpnti
+- Denise Franta
