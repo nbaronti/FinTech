@@ -19,3 +19,11 @@ RobinHoods competitors include:
 - eToro
 - CoinBase
 - Charles Schwab
+
+
+Contributors include
+Raja
+Jon
+Andrei
+Nick
+Denise
