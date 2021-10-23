@@ -13,3 +13,9 @@ RobinHood is an internet stock trading platform that offers unlimited commission
 - ETF’s (exchange traded funds),
 - Stock options, and
 - Cryptocurrencies
+
+RobinHoods competitors include:
+- Etrade
+- eToro
+- CoinBase
+- Charles Schwab
