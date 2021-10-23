@@ -1,7 +1,6 @@
 # Robinhood Case Study
 
 ![alt text](image.jpg)
-
 ---
 
 ## Case Study of RobinHood
@@ -19,3 +18,7 @@ RobinHoods competitors include:
 - eToro
 - CoinBase
 - Charles Schwab
+
+### What is the prognosis for the company? What does the future look like?
+
+Robinhood has ambitions to become more than just a stock trading platform.  In a recent interview founder and CEO, Vlad Tenev, stated that he wants Robinhood to become a single money application, similar to a bank.
