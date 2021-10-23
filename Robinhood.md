@@ -4,7 +4,7 @@
 
 ---
 
-## What is the background of your company? What do they do? Who are their competitors?
+## Case Study of RobinHood
 
 ---
 
