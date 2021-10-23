@@ -32,3 +32,11 @@ RobinHoods competitors include:
 - CoinBase
 - Charles Schwab
 
+
+Contributors include
+- Raja Abhishek
+- Jon Ernest
+- Andrei Eugen Stoian
+- Nick Barpnti
+- Denise Franta
+
