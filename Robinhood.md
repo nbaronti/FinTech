@@ -1,9 +1,16 @@
-# FinTech Interests
+# Robinhood Case Study
 
-My name is Nick Baronti.  I am a finance profressional and CPA.  I currently work for JLL as a real estate strategy consultant.
+![alt text](image.jpg)
 
-My career goals are to advance my skills in FinTech and take on a more technical role in a growing tech organization.
+---
 
-I have a growing passion for exploring new technologies and learning how to advance my skillset in the field of Finance.  I hope to grow my technical skills in programming, data analysis, and AI & machine learning and level up my skills in my finance background.
+## What is the background of your company? What do they do? Who are their competitors?
 
-I would also like to learn more about blockchain and its applications within finance.
+---
+
+RobinHood is an internet stock trading platform that offers unlimited commission free trading for:
+- stocks in U.S. public companies,
+- ETF’s (exchange traded funds),
+- Stock options, and
+- Cryptocurrencies
+
