@@ -13,3 +13,16 @@ RobinHood is an internet stock trading platform that offers unlimited commission
 - ETF’s (exchange traded funds),
 - Stock options, and
 - Cryptocurrencies
+
+
+-------
+### Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?
+Strength:
+- Strong product offering
+- Great user experience
+- Strong millennial customer base
+- Innovation
+
+Weakness:
+- Law suits
+- Limited resources for growth
