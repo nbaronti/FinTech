@@ -1,6 +1,6 @@
 # Robinhood Case Study
 
-![alt text](image.jpg)
+(![Robinghood Logo](https://user-images.githubusercontent.com/33834053/138567841-aaa08602-3d78-4756-8d9c-b1335cfa5ad3.png))
 
 ---
 
@@ -14,7 +14,6 @@ RobinHood is an internet stock trading platform that offers unlimited commission
 - Stock options, and
 - Cryptocurrencies
 
-
 -------
 ### Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?
 Strength:
@@ -26,3 +25,10 @@ Strength:
 Weakness:
 - Law suits
 - Limited resources for growth
+---
+RobinHoods competitors include:
+- Etrade
+- eToro
+- CoinBase
+- Charles Schwab
+
