@@ -14,3 +14,4 @@ RobinHood is an internet stock trading platform that offers unlimited commission
 - Stock options, and
 - Cryptocurrencies
 
+ - Hi nick
