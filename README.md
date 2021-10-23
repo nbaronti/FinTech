@@ -1,6 +1,6 @@
 # FinTech Interests
 
-My name is Nick Baronti.  I am a finance profressional and CPA.  I currently work for Jones Lang LaSalle (JLL) as a real estate strategy consultant.
+My name is Nick Baronti.  I am a finance profressional and CPA.  I currently work for JLL as a real estate strategy consultant.
 
 My career goals moving forward are to advance my skills in FinTech and take on a more technical role in a growing tech organization.
 
