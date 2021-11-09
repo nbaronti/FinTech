@@ -7,3 +7,4 @@ My career goals are to advance my skills in FinTech and take on a more technical
 I have a growing passion for exploring new technologies and learning how to advance my skillset in the field of Finance.  I hope to grow my technical skills in programming, data analysis, and AI & machine learning and level up my skills in my finance background.
 
 I would also like to learn more about blockchain and its applications within finance.
+Good luck.
